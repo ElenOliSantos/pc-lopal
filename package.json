@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/ElenOliSantos/pc-lopal/issues"
   },
-  "homepage": "https://github.com/ElenOliSantos/pc-lopal#readme"
+  "homepage": "https://github.com/ElenOliSantos/pc-lopal#readme",
+  "dependencies": {
+    "chalk": "^6.0.0",
+    "pokemon": "^3.3.1",
+    "readline-sync": "^1.4.10"
+  }
 }
